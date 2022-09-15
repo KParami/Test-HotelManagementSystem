@@ -255,17 +255,16 @@ footer{
 
                                           <div class="container-fluid">
                                              <div class="collapse navbar-collapse" id="myNavbar">
-                                                        <ul class="nav navbar-nav navbar-right">
-                                                           <a  class="navbar-brand" >    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;            
-                                                               HOTEL RESERVATION | HOTEL LA' PERLA </a><br>
+                                             <ul class="nav navbar-nav navbar-right"> <a  class="navbar-brand" >      &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+                                                               HOTEL RESERVATION | HOTEL LA' PERLA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </a> <br>
       
-                                                           <li><a href="home.php"> &nbsp; &nbsp; &nbsp; &nbsp;BOOK MY STAY &nbsp;|</a></li>
-                                                           <li><a href="gallery.php">GALLERY &nbsp;|</a></li>
-                                                           <li><a href="offers.php">OFFERS &nbsp;|</a></li>
-                                                           <li><a href="meeting&event.php">MEETING & EVENTS &nbsp;|</a></li>
-                                                           <li><a href="wedding.php">WEDDING &nbsp;|</a></li>
-                                                           <li><a href="bar&restaurant.php">   BARS & RESTAURANT &nbsp;|</a></li>
-                                                           <li><a href="contact.php">CONTACTS &nbsp;</a></li> <br>
+                                                    <li><a href="home.php">     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;BOOK MY STAY &nbsp;|</a></li>
+                                                    <li><a href="gallery.php">GALLERY &nbsp;|</a></li>
+                                                    <li><a href="offers.php">OFFERS &nbsp;|</a></li>
+                                                    <li><a href="meeting&event.php">MEETING & EVENTS &nbsp;|</a></li>
+                                                    <li><a href="wedding.php">WEDDING &nbsp;|</a></li>
+                                                    <li><a href="bar&restaurant.php">   BARS & RESTAURANT &nbsp;|</a></li>
+                                                    <li><a href="contact.php">CONTACTS &nbsp;|</a></li>
 
                                                          <ul class="nav navbar-nav navbar-right">
                                                          <li><a href="account.php"><span class="glyphicon glyphicon-user"></span> MY ACCOUNT</a></li>

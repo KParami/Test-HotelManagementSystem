@@ -139,7 +139,12 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-
+footer{
+  color:white;
+  background-color:black;
+  text-align:center;
+  padding:40px 30px;
+}
 
   </style>
 </head>
@@ -172,20 +177,16 @@ a:active {
     </div>
     <div class="container-fluid">
     <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav navbar-right">
-      <a  class="navbar-brand" >   &nbsp; 
-       &nbsp; &nbsp; &nbsp; &nbsp; 
-      &nbsp; &nbsp; &nbsp;HOTEL RESERVATION | HOTEL LA' PERLA  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </a>
-      <br>
+    <ul class="nav navbar-nav navbar-right"> <a  class="navbar-brand" >      &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+                                                               HOTEL RESERVATION | HOTEL LA' PERLA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </a> <br>
       
-          <li><a href="home.php"> &nbsp; &nbsp; &nbsp; &nbsp;BOOK MY STAY &nbsp;|</a></li>
-          <li><a href="gallery.php">GALLERY &nbsp;|</a></li>
-          <li><a href="offers.php">OFFERS &nbsp;|</a></li>
-          <li><a href="meeting&event.php">MEETING & EVENTS &nbsp;|</a></li>
-        <li><a href="wedding.php">WEDDING &nbsp;|</a></li>
-        <li><a href="bar&restaurant.php">   BARS & RESTAURANT &nbsp;|</a></li>
-        <li><a href="contact.php">CONTACTS &nbsp;</a></li>
-        <br>
+                                                    <li><a href="home.php">     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;BOOK MY STAY &nbsp;|</a></li>
+                                                    <li><a href="gallery.php">GALLERY &nbsp;|</a></li>
+                                                    <li><a href="offers.php">OFFERS &nbsp;|</a></li>
+                                                    <li><a href="meeting&event.php">MEETING & EVENTS &nbsp;|</a></li>
+                                                    <li><a href="wedding.php">WEDDING &nbsp;|</a></li>
+                                                    <li><a href="bar&restaurant.php">   BARS & RESTAURANT &nbsp;|</a></li>
+                                                    <li><a href="contact.php">CONTACTS &nbsp;|</a></li>
         <ul class="nav navbar-nav navbar-right">
         <li><a href="account.php"><span class="glyphicon glyphicon-user"></span> MY ACCOUNT</a></li>
     </ul>
@@ -339,57 +340,6 @@ gently chafed the whale's broad flank, like soft surf upon a beach.</em> </p>
       </div>
 </div><br><br><br><br><br>
 
-<div class="bg-3">
-    <div class="container">
-        <div class="timeline"><br><br><br><br>
-                 <div class="container right">
-                     <div class="content">
-                        <em> <h2>THE MOST ENCHANTING MOMENT</h2></em>
-                      </div>
-                  </div> <br><br><br><br><br><br><br><br><br><br><br>
-
-                 
-
-                 <div class="container left">
-                     <div class="content">
-                         <h2>A DAY YOU NEVER FORGET</h2>
-                     </div>
-                 </div>
-
-        </div>
-    </div>
-</div>
-<br><br><br><br><br><br>
-
-<div class="bg-3">
-    <div class="container">
-        <div class="timeline"><br><br><br><br>
-                 <div class="container right">
-                     <div class="content">
-                        <em> <h2>THE MOST ENCHANTING MOMENT</h2></em>
-                      </div>
-                  </div> <br><br><br><br><br><br><br><br><br><br><br>
-
-                 
-
-                 <div class="container left">
-                     <div class="content">
-                         <h2>A DAY YOU NEVER FORGET</h2>
-                     </div>
-                 </div>
-
-        </div>
-    </div>
-</div>
-
-
-
-
-<br>
-<br>
-<br><br>
-<br>
-<br>
 
 
   
@@ -407,9 +357,5 @@ gently chafed the whale's broad flank, like soft surf upon a beach.</em> </p>
   |12 place , Ratnapura, Sri Lanka.
 
 </footer>
-
-<br>
-<br>
-<br>
 </body>
 </html>
