@@ -1,0 +1,127 @@
+body{
+      background-color:	#004953;
+   
+  }
+
+ 
+  .container {
+    padding: 80px 50px;
+  }
+  
+  .carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+  }
+  .carousel-caption h3 {
+    color: blue !important;
+  }
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+    }
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #f1f1f1;
+    border-radius: 0;
+    transition: .2s;
+  }
+ 
+  .navbar {
+    margin-bottom: 0;
+    background-color: #2d2d30;
+    border: 0;
+    font-size: 11px !important;
+    letter-spacing: 4px;
+    opacity: 0.9;
+  }
+  .navbar li a, .navbar .navbar-brand { 
+    color: #d5d5d5 !important;
+  }
+  .navbar-brand{
+      font-size: 30px;
+  }
+  .navbar-nav li a:hover {
+    color: #fff !important;
+  }
+  .navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #29292c !important;
+  }
+
+.overlay {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+  
+}
+
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
+  }
+}
+.navbar-header {
+    color:#f1f1f1;
+}
+
+a:link .a:visited .a:hover .a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+select {
+  background-color:transparent;
+  border-color:transparent;
+}
+section {
+  padding: 30px 10px;
+  border: 1px solid #4CAF50;
+  background-color: #003366;
+  width: 1100px;
+
+}
+form{
+  background-color: transparent;
+}
